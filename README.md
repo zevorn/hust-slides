@@ -7,6 +7,7 @@ Slides from our club members at different open source events
   - 2025-12-14-蒋周奇-迈向天地一体的RustSBI安全固件生态
 - [第17届开源开发工具大会（OSDT 2025）](https://mp.weixin.qq.com/s/UuInCYmRS10j9c8ZeTOJmw)
   - 2025-12-07-Chen Miao-基于Rust的Robustone反汇编生态
+  - 2025-12-07-泽文-Rust for QEMU：架构演进、现状分析、贡献指南
 - [2025 强网论坛国家网信创新人才分论坛](https://mp.weixin.qq.com/s/lm5VDdQTVBLeJVgCSLGeXw)
   - 2025-11-22-慕冬亮-三位一体：实战课堂、开源实践与科研驱动的网信人才培养路径
 - [第十八届中国网络空间安全学科专业建设与人才培养研讨会（2025）创新创业教育和开源安全分论坛](https://mp.weixin.qq.com/s/eGsvdyJ7e4EGWA0aczhkLA)
